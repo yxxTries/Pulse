@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj": {}
+    "C:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj": {
+    "C:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj",
+        "projectUniqueName": "C:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj",
         "projectName": "OverlayDemo",
-        "projectPath": "c:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj",
+        "projectPath": "C:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\OverlayDemo.csproj",
         "packagesPath": "C:\\Users\\amils\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\obj\\",
+        "outputPath": "C:\\Users\\amils\\OneDrive\\Desktop\\Pulse\\Pulse\\OverlayDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amils\\AppData\\Roaming\\NuGet\\NuGet.Config"
