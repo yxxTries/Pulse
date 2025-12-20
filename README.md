@@ -82,6 +82,7 @@ The goal is local-first: speech and text stay on your machine. The only network 
 ## Contributing
 
 PRs/issues are welcome, especially around:
+- Cutting down hardware reqs!!!
 - low-latency ASR on Windows
 - WPF overlay UX (positioning, focus behavior, animations)
 - bridging the overlay <-> Python inference cleanly
